@@ -1,3 +1,3 @@
-#cie 1
+cie 1
 cie of devops
 
